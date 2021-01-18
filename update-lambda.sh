@@ -1,0 +1,1 @@
+zip function.zip index.js && aws lambda update-function-code --function-name lambda-demo --zip-file fileb://function.zip 
