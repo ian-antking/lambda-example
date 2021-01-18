@@ -2,7 +2,6 @@
   "Version": "2012-10-17",
   "Statement": [
     {
-      "Sid": "lambda-demo-trust-policy",
       "Effect": "Allow",
       "Principal": {
         "Service": "lambda.amazonaws.com"
